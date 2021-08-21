@@ -6,7 +6,11 @@ My work with Jennifer on the SellBy project was a success, and because of that, 
 ## Results:
 
 How many Vine reviews and non-Vine reviews were there?
+
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+50%
 
 ## Analysis & Summary:
+There is no evidence of positive bias based on the analysis.
